@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, React Native or Any Tech Related or JS**
 
-- 📫 How to reach me **LinkedIn - https://www.linkedin.com/in/mehedi-rana-shuvo-653969173/**
+- 📫 How to reach me **LinkedIn - https://www.linkedin.com/in/ayubur/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
