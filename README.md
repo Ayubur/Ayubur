@@ -9,9 +9,9 @@
 - 🔭 I’m a **Full Stack Developer**
 - 📱 I build **cross-platform mobile apps using React Native**
 - 🌐 I develop scalable web applications using **React & TypeScript**
-- ⚙️ I design and build backend systems using **Node.js, PHP & Python**
+- ⚙️ I design and build backend systems using **Node.js, Nest.js, PHP & Python**
 - 🌱 Currently improving my skills in **system design and scalable architectures**
-- 💬 Ask me about **React, React Native, TypeScript, Node.js, PHP, Python APIs**
+- 💬 Ask me about **React, React Native, TypeScript, Node.js, Nest.js, PHP, Python APIs**
 - ⚡ I enjoy building clean, performant, and production-ready applications
 
 ---
@@ -35,6 +35,9 @@
 
 **Tools & DevOps:**  
 `Docker` `Git` `GitHub Actions` `Firebase` `Linux`
+
+**Cloud:**  
+`AWS`
 
 ---
 
