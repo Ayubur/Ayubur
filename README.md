@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Md. Ayubur Rahaman
+# Hi there 👋, I'm Ayubur Rahaman
 
 🚀 Full Stack Software Engineer | 🤖 AI & Agentic Systems | 📱 Mobile App Developer
 
