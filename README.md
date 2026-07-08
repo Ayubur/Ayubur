@@ -1,67 +1,51 @@
-# Hi there 👋, I'm Ayubur Rahaman
+# Hi there 👋, I'm Md. Ayubur Rahaman
 
-🚀 Full Stack Developer | 📱 Mobile App Developer
+🚀 Full Stack Software Engineer | 🤖 AI & Agentic Systems | 📱 Mobile App Developer
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m a **Full Stack Developer**
-- 📱 I build **cross-platform mobile apps using React Native**
-- 🌐 I develop scalable web applications using **React & TypeScript**
-- ⚙️ I design and build backend systems using **Node.js, Nest.js, PHP & Python**
-- 🌱 Currently improving my skills in **system design and scalable architectures**
-- 💬 Ask me about **React, React Native, TypeScript, Node.js, Nest.js, PHP, Python APIs**
-- ⚡ I enjoy building clean, performant, and production-ready applications
+- 🔭 I'm a **Software Engineer II at ShellBeeHaken Ltd.**, based in Dhaka, Bangladesh
+- 🌐 I build scalable web and mobile applications using **React, Next.js, Node.js & React Native**
+- 🤖 I'm passionate about **AI engineering and Agentic AI systems** — LLMs, RAG pipelines, and AI agents
+- ⚙️ I design APIs, optimize databases, and implement event-driven, real-time services
+- 🌱 Currently focused on **agentic AI workflows and scalable system design**
+- 💬 Ask me about **React, Next.js, Node.js, React Native, LangChain, LangGraph, RAG, MCP**
+- ⚡ I aim to build software that's reliable, efficient, and easy to evolve
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`TypeScript` `JavaScript` `Python` `PHP`
+**Languages:**
+`JavaScript` `TypeScript` `Python` `SQL`
 
-**Frontend:**  
-`React` `Next.js` `Redux`
+**Frameworks:**
+`React.js` `Next.js` `Node.js` `Nest.js` `FastAPI` `React Native`
 
-**Mobile:**  
-`React Native` `Expo`
+**Data & Infra:**
+`PostgreSQL` `MongoDB` `AWS (Lambda, API Gateway, S3, EC2)` `Docker`
 
-**Backend:**  
-`Node.js` `Express` `NestJS` `PHP` `Python`
+**AI & Agentic Systems:**
+`LLMs` `RAG` `LangChain` `LangGraph` `LlamaIndex` `MCP` `Prompt Engineering` `AI Workflows`
 
-**Database:**  
-`MongoDB` `PostgreSQL` `MySQL`
-
-**Tools & DevOps:**  
-`Docker` `Git` `GitHub Actions` `Firebase` `Linux`
-
-**Cloud:**  
-`AWS`
-
----
-
-## 📱 What I Build
-
-- 📱 Cross-platform mobile applications (iOS & Android)
-- 🌐 Modern responsive web applications
-- 🔗 RESTful APIs and backend services
-- ⚡ Real-time applications with scalable architecture
-- 🔐 Authentication systems and secure APIs
+**Focus Areas:**
+Full-stack web apps · Cross-platform mobile apps · API design · Agentic AI development
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayubur)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayubur)
 
 ---
 
-
 ## 🌐 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/ayubur 
-- GitHub: https://github.com/ayubur  
+- 💼 LinkedIn: https://www.linkedin.com/in/ayubur
+- 🐙 GitHub: https://github.com/Ayubur
+- 📧 Email: ayubur.rahaman161@gmail.com
 
 ---
 
